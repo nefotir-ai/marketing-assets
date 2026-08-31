@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Meyer;Marcel;D.;;
+FN:Marcel D. Meyer
+ORG:Nefotir.ai
+TITLE:Principal Delivery Architect
+TEL;TYPE=CELL:+1 561 281-9009
+EMAIL;TYPE=WORK:marcel@nefotir.ai
+URL:https://www.nefotir.ai
+ADR;TYPE=WORK:;;;Boca Raton;FL;;USA
+END:VCARD
