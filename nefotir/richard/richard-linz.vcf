@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Linz;Richard;;;
+FN:Richard Linz
+ORG:Nefotir.ai
+TITLE:Investor Relations / Managing Partner
+TEL;TYPE=WORK,PREF:+1 866 416-9691
+TEL;TYPE=WORK:+1 754 229-6062
+EMAIL;TYPE=WORK:investors@nefotir.ai
+URL:https://www.nefotir.ai
+ADR;TYPE=WORK:;;170 NE 2nd St, Unit 945;Boca Raton;FL;33432-9998;USA
+END:VCARD
