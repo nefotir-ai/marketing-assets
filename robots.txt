@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /nefotir/marcel/
+Disallow: /nefotir/richard/
+Disallow: /thaliaventuris/marcel/
+Disallow: /thaliaventuris/richard/
