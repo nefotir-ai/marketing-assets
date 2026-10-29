@@ -1,6 +1,2 @@
 User-agent: *
-Disallow: /nefotir/marcel/
-Disallow: /nefotir/richard/
 Disallow: /nefotir/investor-relations/
-Disallow: /thaliaventuris/marcel/
-Disallow: /thaliaventuris/richard/
